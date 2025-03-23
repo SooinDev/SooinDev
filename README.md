@@ -42,10 +42,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![SooinDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&theme=tokyonight)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=tokyonight)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=donut&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SooinDev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![SooinDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SooinDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
