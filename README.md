@@ -6,9 +6,11 @@
 ---
 
 ## 💡 About Me
-- 🎓 Senior in Computer Science
+- 🎓 I'm a senior majoring in **Computer Science** at **Woosong University**
+- 🔧 My main strength lies in **Java** and **Spring Boot**, with a strong focus on backend development
 - 🧠 Passionate about **AI**, **Web Development**, and **Data Analysis**
-- 🔧 I love building meaningful projects from scratch
+- 🚀 I enjoy building meaningful and practical web applications from scratch
+- 💼 I'm aiming to work as a **backend developer**, especially in **web server development**
 - 🚗 Currently working on:  
   - **AutoFinder** – 중고차 추천 웹 서비스 (Spring Boot + React + MySQL)
 
