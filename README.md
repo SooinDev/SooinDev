@@ -49,7 +49,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SooinDev&theme=radical&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SooinDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SooinDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
