@@ -14,7 +14,7 @@
 - 💼 I'm aiming to work as a **backend developer**, especially in **web server development**
 - 🚗 Currently working on:  
   - **AutoFinder** – 중고차 추천 웹 서비스 (Spring Boot + React + MySQL + Python)
-  - **JobBridge** – AI기반 구인구직 웹 서비스 (Spring Boot + React + MySQL + Python)
+  - **JobBridge** – AI기반 구인구직 웹 서비스 (Spring Boot + React + MySQL + Python(AI))
 
 ---
 
