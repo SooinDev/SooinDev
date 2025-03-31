@@ -56,8 +56,8 @@
 
 ## 📊 GitHub 통계
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=default&hide_border=true)
-![SooinDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=dark&hide_border=true)
+![SooinDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true)
 
 ## 📂 주요 프로젝트
 
@@ -120,8 +120,8 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=default&hide_border=true)
-![SooinDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=dark&hide_border=true)
+![SooinDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true)
 
 ## 📂 Key Projects
 
