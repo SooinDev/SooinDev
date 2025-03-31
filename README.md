@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 저는 SooinDev입니다 / Hello, I'm SooinDev
+# 👋 안녕하세요, SooinDev입니다 / Hello, I'm SooinDev
 
 <div align="center">
   
