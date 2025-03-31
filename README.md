@@ -67,7 +67,6 @@
 
 - 📫 Email: alwayswithsound@gmail.com
 - 📝 Blog: [Velog @alwayswithsound](https://velog.io/@alwayswithsound/posts)
-- 💼 LinkedIn: [SooinDev](https://www.linkedin.com/in/sooindev)
 
 <p align="right"><a href="#top">🔝 맨 위로</a></p>
 
@@ -128,7 +127,6 @@
 
 - 📫 Email: alwayswithsound@gmail.com
 - 📝 Blog: [Velog @alwayswithsound](https://velog.io/@alwayswithsound/posts)
-- 💼 LinkedIn: [SooinDev](https://www.linkedin.com/in/sooindev)
 
 <p align="right"><a href="#top">🔝 Back to top</a></p>
 
