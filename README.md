@@ -56,6 +56,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=dark&hide_border=true)
 ![SooinDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true)
 
+## 📈 기여도 그래프
+
+[![SooinDev's GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=SooinDev&theme=github-dark&hide_border=true)](https://github.com/SooinDev/github-readme-activity-graph)
+
+<!-- 전통적인 잔디밭 그래프 -->
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SooinDev&theme=github_dark)
+
 ## 📂 주요 프로젝트
 
 | 프로젝트 | 설명 | 기술 스택 |
@@ -115,6 +122,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=dark&hide_border=true)
 ![SooinDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true)
+
+## 📈 Contribution Graph
+
+[![SooinDev's GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=SooinDev&theme=github-dark&hide_border=true)](https://github.com/SooinDev/github-readme-activity-graph)
+
+<!-- Traditional contribution grid -->
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SooinDev&theme=github_dark)
 
 ## 📂 Key Projects
 
