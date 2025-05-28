@@ -109,18 +109,11 @@
 
 ### 📊 학습 시간 분석
 
-```text
-이번 주 학습 현황 (35시간)
+```markdown
+### 📊 개발 시간 통계
 
-Java/Spring      18 hrs 25 mins  ████████████▓░░░░  52.7%
-JavaScript/React  8 hrs 15 mins  ██████▒░░░░░░░░░░  23.6%
-Python/AI         4 hrs 30 mins  ███▒░░░░░░░░░░░░░  12.9%
-Database/SQL      2 hrs 45 mins  ██░░░░░░░░░░░░░░░   7.9%
-DevOps/Cloud      1 hr 05 mins   ▒░░░░░░░░░░░░░░░░   3.1%
-
-🔥 가장 생산적인 시간: 09:00-18:00 KST
-📈 이번 주: 지난 주 대비 +15% 증가
-⚡ 최장 학습 세션: 4시간 30분
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ```
 
 ### 📈 기술 성장 로드맵
@@ -243,18 +236,11 @@ DevOps/Cloud      1 hr 05 mins   ▒░░░░░░░░░░░░░░�
 
 ### 📊 Learning Time Analysis
 
-```text
-This week's learning status (35 hours)
+```markdown
+### 📊 Development Time Statistics
 
-Java/Spring      18 hrs 25 mins  ████████████▓░░░░  52.7%
-JavaScript/React  8 hrs 15 mins  ██████▒░░░░░░░░░░  23.6%
-Python/AI         4 hrs 30 mins  ███▒░░░░░░░░░░░░░  12.9%
-Database/SQL      2 hrs 45 mins  ██░░░░░░░░░░░░░░░   7.9%
-DevOps/Cloud      1 hr 05 mins   ▒░░░░░░░░░░░░░░░░   3.1%
-
-🔥 Most productive time: 09:00-18:00 KST
-📈 This week: +15% compared to last week
-⚡ Longest learning session: 4 hours 30 minutes
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ```
 
 ### 📈 Technology Growth Roadmap
