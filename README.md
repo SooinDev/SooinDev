@@ -122,46 +122,67 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 📈 Technology Growth Roadmap
+### 📈 기술 성장 로드맵
 
 ```mermaid
 graph LR
-    A[Backend Fundamentals] --> B[Spring Ecosystem]
-    A --> C[Frontend Skills]
-    A --> D[AI/ML Integration]
+    A[Java Fundamentals] --> B[Spring Boot Mastery]
+    A --> C[JavaScript & React]
     
-    B --> E[Spring Security]
-    B --> F[Spring Data JPA]
+    B --> D[Backend-Frontend Integration]
+    C --> D
     
-    C --> G[React Mastery]
-    C --> H[TypeScript]
+    D --> E[iOS Development with Swift]
+    D --> F[Python & AI Fundamentals]
     
-    D --> I[TensorFlow]
-    D --> J[Data Analysis]
+    F --> G[Machine Learning]
+    G --> H[Deep Learning]
     
-    E --> K[Full-Stack Developer]
-    F --> K
-    G --> K
-    H --> K
-    I --> K
-    J --> K
+    E --> I[Multi-Platform Developer]
+    H --> I
+    
+    I --> J[Full-Stack AI Developer]
 ```
 
-### 📖 Currently Learning
-- **Spring Boot** advanced features and optimization
-- **React & Next.js** frontend skill enhancement
-- **AI/ML** backend service integration
-- **Cloud Services** (AWS) utilization
-- **DevOps** pipeline construction
+### 📖 현재 학습 중
+- **Java & Spring Boot** 백엔드 개발 심화
+- **React** 프론트엔드 개발 역량 강화
+- **Backend-Frontend 연동** 과정 학습
+- **Swift** iOS 앱 개발 기초
+- **API 설계** 및 **RESTful 서비스** 구축
 
-### 🎯 2025 Goals
-- [ ] **Spring Boot** mastery level achievement
-- [ ] **Full-stack development** capabilities completion
-- [ ] **Cloud-based** service deployment experience
-- [ ] **Open source** project contribution start
-- [ ] **Tech blog** regular posting
+### 🎯 단계별 학습 계획
 
-## 📚 Tech Blogs
+#### 🥇 **1단계: Backend 마스터리 (현재 집중)**
+- **Spring Boot** 심화 (Security, JPA, Testing)
+- **RESTful API** 설계 및 최적화
+- **데이터베이스** 설계 및 연동
+
+#### 🥈 **2단계: Frontend 연동 완성**
+- **JavaScript** ES6+ 문법 완벽 학습
+- **React** 고급 패턴 및 상태 관리
+- **Backend-Frontend** 완벽 연동
+
+#### 🥉 **3단계: 모바일 개발 확장**
+- **Swift** 기본 문법 및 iOS 개발
+- **UIKit & SwiftUI** 마스터
+- **iOS 앱과 Backend** 연동
+
+#### 🏅 **4단계: AI 통합 개발자**
+- **Python** 기초 및 데이터 처리
+- **Machine Learning** (scikit-learn)
+- **Deep Learning** (TensorFlow, PyTorch)
+- **AI 모델과 Backend** 서비스 연동
+
+### 🎯 2025년 목표
+- [ ] **Spring Boot** 마스터 레벨 달성
+- [ ] **React** 고급 개발 패턴 습득
+- [ ] **Backend-Frontend** 완벽 연동 구현
+- [ ] **Swift iOS 앱** 1개 이상 출시
+- [ ] **Python & AI** 기초 완성
+- [ ] **AI 통합 웹 서비스** 프로젝트 완성
+
+## 📚 기술 블로그
 
 <div align="center">
 
@@ -170,31 +191,9 @@ graph LR
 
 </div>
 
-## 🔗 Contact
+## 🔗 연락처
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwayswithsound@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SooinDev)
-
-**📫 Email**: `alwayswithsound@gmail.com`
-
-</div>
-
-<p align="right"><a href="#top">🔝 Back to top</a></p>
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65)
-  
-  <sub>🚀 A passionate backend developer building the future with code | 코드로 미래를 만들어가는 열정적인 백엔드 개발자</sub>
-  
-  ---
-  
-  **"Code is poetry written in logic"** ✨
-  
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=
