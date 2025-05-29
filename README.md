@@ -257,7 +257,6 @@ graph LR
 - [ ] **Spring Boot** 마스터 레벨 달성
 - [ ] **React** 고급 개발 패턴 습득
 - [ ] **Backend-Frontend** 완벽 연동 구현
-- [ ] **Swift iOS 앱** 1개 이상 출시
 - [ ] **Python & AI** 기초 완성
 - [ ] **AI 통합 웹 서비스** 프로젝트 완성
 
