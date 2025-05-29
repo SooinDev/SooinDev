@@ -11,11 +11,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwayswithsound@gmail.com)
   [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@alwayswithsound/posts)
   [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://alwayswithsound.tistory.com/)
-
-  <p>
-    <a href="#english">🇺🇸 English</a> |
-    <a href="#korean">🇰🇷 한국어</a>
-  </p>
+  
 </div>
 
 ---
