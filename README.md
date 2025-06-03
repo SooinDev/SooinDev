@@ -101,8 +101,8 @@
 
 | 🌟 **Project** | 📋 **Description** | 🛠️ **Tech Stack** | 🔗 **Links** |
 |:---:|:---:|:---:|:---:|
-| **🚗 AutoFinder** | Used car recommendation<br/>web service with AI | Spring Boot, React<br/>MySQL, Python | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/SooinDev) |
-| **💼 JobBridge** | AI-based job matching<br/>service platform | Spring Boot, React<br/>MySQL, Python | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/SooinDev) |
+| **🚗 AutoFinder** | Used car recommendation<br/>web service with AI | Spring Boot, React<br/>MySQL, Python | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/SooinDev/AutoFinder.git) |
+| **💼 JobBridge** | AI-based job matching<br/>service platform | Spring Boot, React<br/>MySQL, Python | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/SooinDev/jobbridge-backend) |
 
 </div>
 
