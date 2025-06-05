@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정 (UTC) - 별 5개로 수정
+    - cron: '0 0 * * *'  # 별 5개로 수정 (매일 자정 UTC)
 
 jobs:
   update-readme:
