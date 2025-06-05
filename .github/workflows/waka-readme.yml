@@ -33,4 +33,3 @@ jobs:
           SHOW_WEEKLY_COMMIT: "True"
           SHOW_DAILY_COMMIT: "True"
           COMMIT_BY_ME: "True"
-          LOCALE: "ko"
