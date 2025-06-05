@@ -117,96 +117,9 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-370-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 179.2 kB Used in GitHub's Storage 
- > 
-> 🏆 646 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                371 commits         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-🌆 Daytime                275 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-🌃 Evening                431 commits         ████████░░░░░░░░░░░░░░░░░   32.50 % 
-🌙 Night                  249 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Tuesday                  91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Wednesday                339 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-Thursday                 460 commits         █████████░░░░░░░░░░░░░░░░   34.69 % 
-Friday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Java                     16 hrs 13 mins      ███████████████░░░░░░░░░░   60.31 % 
-Swift                    3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Python                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-C                        1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-JavaScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-
-🔥 Editors: 
-IntelliJ IDEA            18 hrs 10 mins      █████████████████░░░░░░░░   67.52 % 
-Xcode                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-CLion                    2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-PyCharm                  2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Zoom                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-
-🐱‍💻 Projects: 
-kata                     8 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
-AutoFinder               6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-PS                       4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-untitled                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-jobbridge-frontend       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-
-💻 Operating System: 
-Mac                      26 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
-Swift                    2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SooinDev/SooinDev/main/assets/bar_graph.png)
-
-
- Last Updated on 05/06/2025 17:12:48 UTC
 <!--END_SECTION:waka-->
 
-### 📈 기술 성장 로드맵
+### 📈 Technology Growth Roadmap
 
 ```mermaid
 graph LR
@@ -228,44 +141,44 @@ graph LR
     I --> J[Full-Stack AI Developer]
 ```
 
-### 📖 현재 학습 중
-- **Java & Spring Boot** 백엔드 개발 심화
-- **React** 프론트엔드 개발 역량 강화
-- **Backend-Frontend 연동** 과정 학습
-- **Swift** iOS 앱 개발 기초
-- **API 설계** 및 **RESTful 서비스** 구축
+### 📖 Currently Learning
+- **Java & Spring Boot** backend development advanced
+- **React** frontend development skills enhancement
+- **Backend-Frontend integration** process learning
+- **Swift** iOS app development basics
+- **API design** and **RESTful service** development
 
-### 🎯 단계별 학습 계획
+### 🎯 Step-by-Step Learning Plan
 
-#### 🥇 **1단계: Backend 마스터리 (현재 집중)**
-- **Spring Boot** 심화 (Security, JPA, Testing)
-- **RESTful API** 설계 및 최적화
-- **데이터베이스** 설계 및 연동
+#### 🥇 **Phase 1: Backend Mastery (Current Focus)**
+- **Spring Boot** advanced (Security, JPA, Testing)
+- **RESTful API** design and optimization
+- **Database** design and integration
 
-#### 🥈 **2단계: Frontend 연동 완성**
-- **JavaScript** ES6+ 문법 완벽 학습
-- **React** 고급 패턴 및 상태 관리
-- **Backend-Frontend** 완벽 연동
+#### 🥈 **Phase 2: Frontend Integration Completion**
+- **JavaScript** ES6+ syntax mastery
+- **React** advanced patterns and state management
+- **Backend-Frontend** perfect integration
 
-#### 🥉 **3단계: 모바일 개발 확장**
-- **Swift** 기본 문법 및 iOS 개발
-- **UIKit & SwiftUI** 마스터
-- **iOS 앱과 Backend** 연동
+#### 🥉 **Phase 3: Mobile Development Expansion**
+- **Swift** basic syntax and iOS development
+- **UIKit & SwiftUI** mastery
+- **iOS app and Backend** integration
 
-#### 🏅 **4단계: AI 통합 개발자**
-- **Python** 기초 및 데이터 처리
+#### 🏅 **Phase 4: AI-Integrated Developer**
+- **Python** basics and data processing
 - **Machine Learning** (scikit-learn)
 - **Deep Learning** (TensorFlow, PyTorch)
-- **AI 모델과 Backend** 서비스 연동
+- **AI model and Backend** service integration
 
-### 🎯 2025년 목표
-- [ ] **Spring Boot** 마스터 레벨 달성
-- [ ] **React** 고급 개발 패턴 습득
-- [ ] **Backend-Frontend** 완벽 연동 구현
-- [ ] **Python & AI** 기초 완성
-- [ ] **AI 통합 웹 서비스** 프로젝트 완성
+### 🎯 2025 Goals
+- [ ] Achieve **Spring Boot** master level
+- [ ] Master **React** advanced development patterns
+- [ ] Implement perfect **Backend-Frontend** integration
+- [ ] Complete **Python & AI** fundamentals
+- [ ] Complete **AI-integrated web service** project
 
-## 📚 기술 블로그
+## 📚 Tech Blog
 
 <div align="center">
 
@@ -274,7 +187,7 @@ graph LR
 
 </div>
 
-## 🔗 연락처
+## 🔗 Contact
 
 <div align="center">
 
@@ -285,7 +198,7 @@ graph LR
 
 </div>
 
-<p align="right"><a href="#top">🔝 맨 위로</a></p>
+<p align="right"><a href="#top">🔝 Back to Top</a></p>
 
 </div>
 
