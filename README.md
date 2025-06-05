@@ -6,10 +6,9 @@
 
 <img src="https://github.com/SooinDev/SooinDev/assets/your-gif/coding.gif" width="400" height="250" alt="Coding GIF"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwayswithsound@gmail.com)
-[![Velog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@alwayswithsound/posts)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@alwayswithsound/posts)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://alwayswithsound.tistory.com/)
 
 </div>
 
@@ -78,91 +77,6 @@ const sooInDev = {
 ## 📊 Development Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-370-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 179.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                371 commits         ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-🌆 Daytime                275 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-🌃 Evening                431 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
-🌙 Night                  253 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Tuesday                  91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Wednesday                339 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Thursday                 460 commits         █████████░░░░░░░░░░░░░░░░   34.59 % 
-Friday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Saturday                 51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Java                     16 hrs 13 mins      ███████████████░░░░░░░░░░   60.31 % 
-Swift                    3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Python                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-C                        1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-JavaScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-
-🔥 Editors: 
-IntelliJ IDEA            18 hrs 10 mins      █████████████████░░░░░░░░   67.52 % 
-Xcode                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-CLion                    2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-PyCharm                  2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Zoom                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-
-🐱‍💻 Projects: 
-kata                     8 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
-AutoFinder               6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-PS                       4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-untitled                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-jobbridge-frontend       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-
-💻 Operating System: 
-Mac                      26 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
-Swift                    2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SooinDev/SooinDev/main/assets/bar_graph.png)
-
-
- Last Updated on 05/06/2025 17:22:24 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -179,7 +93,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 **AI-Powered Used Car Recommendation Platform**
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/SooinDev/AutoFinder.git)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome)](https://your-demo-link.com)
 
 ```yaml
 Tech Stack:
@@ -201,7 +114,6 @@ Features:
 **AI-Based Job Matching Service**
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/SooinDev/jobbridge-backend)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome)](https://your-demo-link.com)
 
 ```yaml
 Tech Stack:
@@ -299,10 +211,8 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-Read-20C997?style=for-the-badge&logo=velog)](https://velog.io/@alwayswithsound/posts)
-[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=google-drive)](https://your-resume-link.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog)](https://velog.io/@alwayswithsound/posts)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory)](https://alwayswithsound.tistory.com/)
 
 **📧 Business Inquiries**: `alwayswithsound@gmail.com`
 
