@@ -114,7 +114,7 @@
   <img src="https://img.shields.io/badge/Blog%20Posts-Growing-orange?style=for-the-badge&logo=velog" />
 </div>
 
-### 📊 Development Time Statistics
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
