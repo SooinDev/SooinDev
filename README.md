@@ -28,7 +28,7 @@ const sooInDev = {
     experience: {
         backend: ["Spring Boot", "Spring Security", "JPA/Hibernate", "MySQL"],
         frontend: ["React", "TypeScript", "Next.js"],
-        mobile: ["Swift", "iOS Development"],
+        mobile: ["Swift", "iOS Development", "SwiftUI"],
         ai_ml: ["Python", "TensorFlow", "Data Analysis"],
         tools: ["Git", "GitHub Actions", "Postman", "IntelliJ IDEA"]
     },
@@ -64,6 +64,7 @@ const sooInDev = {
 ### Mobile Development
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -122,36 +123,36 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               4 hrs               ██████████░░░░░░░░░░░░░░░   38.24 % 
-Python                   1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-C++                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-C/C++                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Java                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Swift                    4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   42.12 % 
+Java                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+JavaScript               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Python                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+C++                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 42 mins       ██████████████░░░░░░░░░░░   54.39 % 
-CLion                    3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-PyCharm                  1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Xcode                    4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   42.12 % 
+IntelliJ IDEA            3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   30.47 % 
+CLion                    1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+PyCharm                  1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 
 🐱‍💻 Projects: 
-Project1                 3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-Project1_frontend        1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-CTest                    1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-CppTest                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-CTest2                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+tetris-game              5 hrs 45 mins       █████████████░░░░░░░░░░░░   53.74 % 
+AutoFinder               2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+JobBridge                1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Algorithm Practice       50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 💻 Operating System: 
-Mac                      10 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
-Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Swift                    3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -161,7 +162,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SooinDev/SooinDev/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 01:58:40 UTC
+ Last Updated on 24/08/2025 15:30:22 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -172,10 +173,32 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+
+### 🎮 Tetris Game
+**Full-Stack Mobile Game Platform**
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/SooinDev/tetris-game)
+
+```yaml
+Tech Stack:
+  Backend: Spring Boot, MySQL, JPA
+  Frontend: iOS SwiftUI, Combine
+  Architecture: MVVM, REST API
+  
+Features:
+  - Native iOS Tetris gameplay
+  - Multiple game modes
+  - Real-time leaderboards
+  - User statistics & achievements
+  - Smooth 60fps animations
+```
+
+</td>
+<td width="33%">
 
 ### 🚗 AutoFinder
-**AI-Powered Used Car Recommendation Platform**
+**AI-Powered Used Car Platform**
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/SooinDev/AutoFinder.git)
 
@@ -186,14 +209,14 @@ Tech Stack:
   AI/ML: Python, TensorFlow
   
 Features:
-  - Intelligent car recommendation engine
+  - Intelligent car recommendation
   - Real-time price analysis
   - User preference learning
-  - Responsive web design
+  - Advanced filtering system
 ```
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 💼 JobBridge
 **AI-Based Job Matching Service**
@@ -211,12 +234,29 @@ Features:
   - Smart job-candidate matching
   - Resume analysis & optimization
   - Real-time chat system
-  - Advanced filtering algorithms
+  - Advanced AI algorithms
 ```
 
 </td>
 </tr>
 </table>
+
+</div>
+
+### 🎮 Latest: Tetris Game Highlights
+
+<div align="center">
+
+| Feature | Description | Technology |
+|---------|-------------|------------|
+| **🎯 Game Modes** | Classic, Marathon, Sprint gameplay | SwiftUI + Combine |
+| **🏆 Leaderboards** | Global & mode-specific rankings | Spring Boot + MySQL |
+| **📱 Native iOS** | 60fps smooth animations | SwiftUI + Core Animation |
+| **🔄 Real-time Sync** | Live score updates & statistics | REST API + JSON |
+| **🎨 Modern UI** | Intuitive touch controls & gestures | SwiftUI + Gesture Recognition |
+
+[![Live Demo](https://img.shields.io/badge/🎮_Play_Demo-4285F4?style=for-the-badge)](https://github.com/SooinDev/tetris-game)
+[![API Docs](https://img.shields.io/badge/📖_API_Docs-34A853?style=for-the-badge)](https://github.com/SooinDev/tetris-game/blob/main/backend/README.md)
 
 </div>
 
@@ -268,27 +308,30 @@ graph TD
     C --> D[🏗️ Backend Architecture]
     D --> E[⚛️ Full-Stack Integration]
     E --> F[📱 Mobile Development]
-    F --> G[🤖 AI Integration]
-    G --> H[🏢 Senior Backend Engineer]
+    F --> G[🎮 Game Development]
+    G --> H[🤖 AI Integration]
+    H --> I[🏢 Senior Backend Engineer]
     
     style A fill:#e1f5fe
-    style H fill:#1b5e20,color:#fff
+    style G fill:#ff6b35,color:#fff
+    style I fill:#1b5e20,color:#fff
 ```
 
 </div>
 
 ### 🎯 Current Objectives (2025)
+- [x] **Full-Stack Mobile Game** - Completed Tetris with iOS + Spring Boot
 - [ ] **Master Spring Boot Ecosystem** - Advanced Security, Testing, Microservices
 - [ ] **System Design Excellence** - Scalable architecture patterns
 - [ ] **AI-Driven Applications** - Integrate ML models with backend services
-- [ ] **Mobile-Backend Integration** - Seamless iOS app connectivity
+- [ ] **Mobile-Backend Integration** - Advanced iOS app connectivity
 - [ ] **Open Source Contributions** - Contribute to major Spring projects
 
 ### 📚 Continuous Learning
 - **Backend Engineering**: Spring Cloud, Kafka, Redis, Docker
 - **System Design**: Microservices, Event-Driven Architecture
+- **Mobile Development**: SwiftUI, Combine, Core Data, Game Engines
 - **AI/ML Integration**: MLOps, Model Serving, Real-time Analytics
-- **Mobile Development**: SwiftUI, Combine, Core Data
 
 ---
 
