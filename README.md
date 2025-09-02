@@ -19,7 +19,7 @@
 ```typescript
 const sooInDev = {
     role: "Backend Engineer",
-    location: "Seoul, South Korea",
+    location: "Daejeon, South Korea",
     education: "Computer Science @ Woosong University",
     
     specializations: ["Java", "Spring Boot", "REST APIs", "System Design"],
