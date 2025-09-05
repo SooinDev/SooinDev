@@ -1,11 +1,9 @@
 name: Waka Readme
-
 on:
   schedule:
     # 매일 자정에 실행 (UTC 기준)
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # 수정: '0 0 * **' -> '0 0 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -15,21 +13,19 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_UPDATED_DATE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_LANGUAGE_CHART: "True"
-          SHOW_WEEKLY_COMMIT: "True"
-          SHOW_DAILY_COMMIT: "True"
-          COMMIT_BY_ME: "True"
+          SHOW_LINES_OF_CODE: "true"      # 수정: "True" -> "true"
+          SHOW_PROFILE_VIEWS: "true"      # 수정: "True" -> "true"
+          SHOW_COMMIT: "true"             # 수정: "True" -> "true"
+          SHOW_DAYS_OF_WEEK: "true"       # 수정: "True" -> "true"
+          SHOW_LANGUAGE: "true"           # 수정: "True" -> "true"
+          SHOW_OS: "true"                 # 수정: "True" -> "true"
+          SHOW_PROJECTS: "true"           # 수정: "True" -> "true"
+          SHOW_TIMEZONE: "true"           # 수정: "True" -> "true"
+          SHOW_EDITORS: "true"            # 수정: "True" -> "true"
+          SHOW_LANGUAGE_PER_REPO: "true"  # 수정: "True" -> "true"
+          SHOW_LOC_CHART: "true"          # 수정: "True" -> "true"
+          SHOW_SHORT_INFO: "true"         # 수정: "True" -> "true"
+          SHOW_UPDATED_DATE: "true"       # 수정: "True" -> "true"
+          SHOW_TOTAL_CODE_TIME: "true"    # 수정: "True" -> "true"
+          # 제거: SHOW_LANGUAGE_CHART, SHOW_WEEKLY_COMMIT, SHOW_DAILY_COMMIT (유효하지 않은 입력값)
+          COMMIT_BY_ME: "true"            # 수정: "True" -> "true"
