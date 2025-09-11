@@ -115,22 +115,6 @@ const developer = {
     - Senior Backend Engineer role
 ```
 
-## 💡 Weekly Development
-
-<!--START_SECTION:waka-->
-```text
-💻 This Week's Coding Time:
-
-Java         6h 15m  ████████████████▓░  73.2%
-XML          1h 22m  ████░░░░░░░░░░░░░░░  16.1%
-Python       18m     ▓░░░░░░░░░░░░░░░░░░   3.7%
-Markdown     11m     ▓░░░░░░░░░░░░░░░░░░   2.2%
-SQL          10m     ▓░░░░░░░░░░░░░░░░░░   2.1%
-
-🔥 Most Used: IntelliJ IDEA (99.5%)
-```
-<!--END_SECTION:waka-->
-
 ## 🌟 Achievements
 
 <div align="center">
