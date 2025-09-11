@@ -1,348 +1,143 @@
-# SooinDev | Backend Engineer ☁️ 🛼
+# SooinDev ✨
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Backend+Engineer+%7C+Java+%26+Spring+Specialist;AI+%26+Full-Stack+Enthusiast;Building+Scalable+%26+Robust+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Backend+Engineer+%7C+Java+%26+Spring;AI+Enthusiast+%7C+iOS+Developer;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
-<img src="https://github.com/SooinDev/SooinDev/assets/your-gif/coding.gif" width="400" height="250" alt="Coding GIF"/>
+</div>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwayswithsound@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@alwayswithsound/posts)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://alwayswithsound.tistory.com/)
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/📧-alwayswithsound@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alwayswithsound@gmail.com)
+[![Velog](https://img.shields.io/badge/📝-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@alwayswithsound/posts)
+[![Tistory](https://img.shields.io/badge/📚-Dev%20Log-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://alwayswithsound.tistory.com/)
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👋 About Me
 
-```typescript
-const sooInDev = {
-    role: "Backend Engineer",
-    location: "Daejeon, South Korea",
-    education: "Computer Science @ Woosong University",
-    
-    specializations: ["Java", "Spring Boot", "REST APIs", "System Design"],
-    currentFocus: ["Microservices", "Clean Architecture", "AI Integration"],
-    
-    experience: {
-        backend: ["Spring Boot", "Spring Security", "JPA/Hibernate", "MySQL"],
-        frontend: ["React", "TypeScript", "Next.js"],
-        mobile: ["Swift", "iOS Development", "SwiftUI"],
-        ai_ml: ["Python", "TensorFlow", "Data Analysis"],
-        tools: ["Git", "GitHub Actions", "Postman", "IntelliJ IDEA"]
-    },
-    
-    philosophy: "Clean code is not written by following a set of rules. Clean code is written by programmers who care."
+```javascript
+const developer = {
+  name: "SooinDev",
+  role: "Backend Engineer",
+  location: "Daejeon, South Korea 🇰🇷",
+  education: "Computer Science @ Woosong University",
+  
+  core: ["Java", "Spring Boot", "System Design", "Clean Architecture"],
+  exploring: ["AI/ML Integration", "iOS Development", "Game Development"],
+  
+  mindset: "Code with purpose, design with empathy, build with passion"
 };
 ```
 
----
-
-## 🛠️ Technology Arsenal
+## 🛠 Tech Stack
 
 <div align="center">
 
-### Core Backend Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge)
+**Backend & Core**
+</div>
 
-### Frontend & Full-Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Mobile Development
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
----
+<div align="center">
 
-## 📊 Development Analytics
+**Frontend & Mobile**
+</div>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**AI & Tools**
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🎮 **Tetris Game** | Full-stack mobile application with real-time features | Spring Boot + SwiftUI | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/tetris-game) |
+| 🚗 **AutoFinder** | AI-powered used car recommendation platform | Spring Boot + React + Python | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/AutoFinder) |
+| 💼 **JobBridge** | Smart job matching service with NLP | Spring Boot + Next.js + AI | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/jobbridge-backend) |
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SooinDev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9)
+
+</div>
+
+## 🎯 Current Focus
+
+```yaml
+2025 Goals:
+  🔄 In Progress:
+    - Deep diving into Spring Framework ecosystem
+    - Pursuing full-stack development skills
+  🎯 Career Goal:
+    - Senior Backend Engineer role
+```
+
+## 💡 Weekly Development
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2031%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 201.2 kB Used in GitHub's Storage 
- > 
-> 🏆 989 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
 ```text
-🌞 Morning                654 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌆 Daytime                362 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-🌃 Evening                603 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌙 Night                  396 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+💻 This Week's Coding Time:
+
+Java         6h 15m  ████████████████▓░  73.2%
+XML          1h 22m  ████░░░░░░░░░░░░░░░  16.1%
+Python       18m     ▓░░░░░░░░░░░░░░░░░░   3.7%
+Markdown     11m     ▓░░░░░░░░░░░░░░░░░░   2.2%
+SQL          10m     ▓░░░░░░░░░░░░░░░░░░   2.1%
+
+🔥 Most Used: IntelliJ IDEA (99.5%)
 ```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Tuesday                  217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Wednesday                439 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Thursday                 629 commits         ████████░░░░░░░░░░░░░░░░░   31.22 % 
-Friday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Sunday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Java                     6 hrs 15 mins       ██████████████████░░░░░░░   73.20 % 
-XML                      1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-ECLiPSe                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-
-🔥 Editors: 
-IntelliJ IDEA            8 hrs 30 mins       █████████████████████████   99.53 % 
-CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-
-🐱‍💻 Projects: 
-study                    4 hrs 59 mins       ███████████████░░░░░░░░░░   58.35 % 
-egovboard                1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-egov-sample              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-JavaTest1                1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-CppProject2              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-
-💻 Operating System: 
-Mac                      8 hrs 33 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Swift                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SooinDev/SooinDev/main/assets/bar_graph.png)
-
-
- Last Updated on 03/09/2025 01:53:20 UTC
 <!--END_SECTION:waka-->
 
----
-
-## 🎯 Featured Projects
+## 🌟 Achievements
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%">
-
-### 🎮 Tetris Game
-**Full-Stack Mobile Game Platform**
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/SooinDev/tetris-game)
-
-```yaml
-Tech Stack:
-  Backend: Spring Boot, MySQL, JPA
-  Frontend: iOS SwiftUI, Combine
-  Architecture: MVVM, REST API
-  
-Features:
-  - Native iOS Tetris gameplay
-  - Multiple game modes
-  - Real-time leaderboards
-  - User statistics & achievements
-  - Smooth 60fps animations
-```
-
-</td>
-<td width="33%">
-
-### 🚗 AutoFinder
-**AI-Powered Used Car Platform**
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/SooinDev/AutoFinder.git)
-
-```yaml
-Tech Stack:
-  Backend: Spring Boot, MySQL, JPA
-  Frontend: React, TypeScript
-  AI/ML: Python, TensorFlow
-  
-Features:
-  - Intelligent car recommendation
-  - Real-time price analysis
-  - User preference learning
-  - Advanced filtering system
-```
-
-</td>
-<td width="33%">
-
-### 💼 JobBridge
-**AI-Based Job Matching Service**
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/SooinDev/jobbridge-backend)
-
-```yaml
-Tech Stack:
-  Backend: Spring Boot, Spring Security
-  Frontend: React, Next.js
-  Database: MySQL, Redis
-  AI/ML: Python, NLP
-  
-Features:
-  - Smart job-candidate matching
-  - Resume analysis & optimization
-  - Real-time chat system
-  - Advanced AI algorithms
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🎮 Latest: Tetris Game Highlights
-
-<div align="center">
-
-| Feature | Description | Technology |
-|---------|-------------|------------|
-| **🎯 Game Modes** | Classic, Marathon, Sprint gameplay | SwiftUI + Combine |
-| **🏆 Leaderboards** | Global & mode-specific rankings | Spring Boot + MySQL |
-| **📱 Native iOS** | 60fps smooth animations | SwiftUI + Core Animation |
-| **🔄 Real-time Sync** | Live score updates & statistics | REST API + JSON |
-| **🎨 Modern UI** | Intuitive touch controls & gestures | SwiftUI + Gesture Recognition |
-
-[![Live Demo](https://img.shields.io/badge/🎮_Play_Demo-4285F4?style=for-the-badge)](https://github.com/SooinDev/tetris-game)
-[![API Docs](https://img.shields.io/badge/📖_API_Docs-34A853?style=for-the-badge)](https://github.com/SooinDev/tetris-game/blob/main/backend/README.md)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SooinDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooinDev&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SooinDev&theme=github-dark-blue&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SooinDev&theme=github-compact&hide_border=true" />
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SooinDev&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SooinDev&color=0366d6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/SooinDev?style=for-the-badge&color=0366d6)
-![Stars](https://img.shields.io/github/stars/SooinDev?style=for-the-badge&color=0366d6)
-
-</div>
-
----
-
-## 🚀 Professional Roadmap
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎓 CS Student] --> B[☕ Java Fundamentals]
-    B --> C[🍃 Spring Boot Mastery]
-    C --> D[🏗️ Backend Architecture]
-    D --> E[⚛️ Full-Stack Integration]
-    E --> F[📱 Mobile Development]
-    F --> G[🎮 Game Development]
-    G --> H[🤖 AI Integration]
-    H --> I[🏢 Senior Backend Engineer]
-    
-    style A fill:#e1f5fe
-    style G fill:#ff6b35,color:#fff
-    style I fill:#1b5e20,color:#fff
-```
-
-</div>
-
-### 🎯 Current Objectives (2025)
-- [x] **Full-Stack Mobile Game** - Completed Tetris with iOS + Spring Boot
-- [ ] **Master Spring Boot Ecosystem** - Advanced Security, Testing, Microservices
-- [ ] **System Design Excellence** - Scalable architecture patterns
-- [ ] **AI-Driven Applications** - Integrate ML models with backend services
-- [ ] **Mobile-Backend Integration** - Advanced iOS app connectivity
-- [ ] **Open Source Contributions** - Contribute to major Spring projects
-
-### 📚 Continuous Learning
-- **Backend Engineering**: Spring Cloud, Kafka, Redis, Docker
-- **System Design**: Microservices, Event-Driven Architecture
-- **Mobile Development**: SwiftUI, Combine, Core Data, Game Engines
-- **AI/ML Integration**: MLOps, Model Serving, Real-time Analytics
-
----
-
-## 🌐 Professional Network
-
-<div align="center">
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog)](https://velog.io/@alwayswithsound/posts)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory)](https://alwayswithsound.tistory.com/)
-
-**📧 Business Inquiries**: `alwayswithsound@gmail.com`
+![Profile Views](https://komarev.com/ghpvc/?username=SooinDev&color=58a6ff&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/SooinDev?style=flat-square&color=58a6ff&label=Followers)
+![Total Stars](https://img.shields.io/github/stars/SooinDev?style=flat-square&color=58a6ff&label=Total+Stars)
 
 </div>
 
@@ -352,14 +147,12 @@ graph TD
 
 ### 💭 Philosophy
 
-> *"The best code is no code at all. But when code is necessary, make it clean, maintainable, and elegant."*
+*"Clean code is not just about syntax—it's about crafting solutions that future developers will thank you for."*
 
-**🎯 Available for Backend Engineering Opportunities | Open to Collaboration**
+**🚀 Open to collaboration • 💼 Available for backend engineering opportunities**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**⭐ Star this repository if you find it inspiring!**
+<sub>⭐ Star my repositories if you find them useful!</sub>
 
 </div>
