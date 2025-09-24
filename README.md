@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Backend+Engineer+%7C+Java+%26+Spring;AI+Enthusiast+%7C+Full-Stack+Developer;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Backend+Engineer+%7C+Spring+%26+MyBatis;Flutter+Developer+%7C+Cross-Platform+Mobile;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,11 +21,11 @@
 ```javascript
 const developer = {
   name: "SooinDev",
-  role: "Backend Engineer",
+  role: "Backend Engineer & Flutter Developer",
   location: "Daejeon, South Korea 🇰🇷",
   education: "Computer Science @ Woosong University",
   
-  core: ["Java", "Spring Boot", "System Design", "Clean Architecture"],
+  core: ["Spring", "Spring Boot", "MyBatis", "Flutter", "Dart"],
   exploring: ["AI/ML Integration", "iOS Development", "Game Development"],
   
   mindset: "Code with purpose, design with empathy, build with passion"
@@ -36,14 +36,15 @@ const developer = {
 
 <div align="center">
 
-**Backend & Core**
+**Backend Expertise**
 </div>
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC143C?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
@@ -51,7 +52,21 @@ const developer = {
 
 <div align="center">
 
-**Frontend & Mobile**
+**Mobile Development**
+</div>
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**Frontend & Others**
 </div>
 
 <div align="center">
@@ -59,21 +74,21 @@ const developer = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)
-
-</div>
-
-<div align="center">
-
-**AI & Tools**
-</div>
-
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**DevOps & Tools**
+</div>
+
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -83,9 +98,9 @@ const developer = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🎮 **Tetris Game** | Full-stack mobile application with real-time features | Spring Boot + SwiftUI | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/tetris-game) |
-| 🚗 **AutoFinder** | AI-powered used car recommendation platform | Spring Boot + React + Python | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/AutoFinder) |
-| 💼 **JobBridge** | Smart job matching service with NLP | Spring Boot + Next.js + AI | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/jobbridge-backend) |
+| 📱 **CodeSlice** | Flutter mobile app with Spring Boot backend | Spring Boot + MyBatis + Flutter | [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/app/codeslice) |
+| 🚗 **AutoFinder** | AI-powered used car recommendation platform | Spring + MyBatis + React + Python | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/AutoFinder) |
+| 💼 **JobBridge** | Smart job matching service with NLP | Spring Boot + MyBatis + Flutter | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/jobbridge-backend) |
 
 </div>
 
@@ -109,11 +124,33 @@ const developer = {
 ```yaml
 2025 Goals:
   🔄 In Progress:
-    - Deep diving into Spring Framework ecosystem
-    - Pursuing full-stack development skills
+    - Mastering Spring ecosystem & MyBatis optimization
+    - Advanced Flutter development & state management
+    - Building production-ready mobile applications
   🎯 Career Goal:
-    - Senior Backend Engineer role
+    - Senior Backend Engineer & Flutter Expert
 ```
+
+## 💪 Core Specializations
+
+<div align="center">
+
+**🍃 Spring Framework**
+- Spring Boot REST API development
+- Spring Security implementation
+- Microservices architecture
+
+**🗄️ Database & MyBatis**
+- Complex SQL query optimization
+- MyBatis dynamic mapping
+- Database performance tuning
+
+**📱 Flutter Development**
+- Cross-platform mobile apps
+- State management (Provider, Bloc)
+- Native platform integration
+
+</div>
 
 ## 🌟 Achievements
 
@@ -131,9 +168,9 @@ const developer = {
 
 ### 💭 Philosophy
 
-*"Clean code is not just about syntax—it's about crafting solutions that future developers will thank you for."*
+*"Solid backend architecture with Spring, beautiful mobile experiences with Flutter—building the full stack one commit at a time."*
 
-**🚀 Open to collaboration • 💼 Available for backend engineering opportunities**
+**🚀 Open to collaboration • 💼 Available for backend engineering & Flutter development opportunities**
 
 ---
 
