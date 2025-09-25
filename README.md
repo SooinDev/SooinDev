@@ -98,7 +98,7 @@ const developer = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 📱 **CodeSlice** | Flutter mobile app with Spring Boot backend | Spring Boot + MyBatis + Flutter | [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/app/codeslice) |
+| 📱 **CodeSlice** | Flutter mobile app with Spring Boot backend | Spring Boot + MyBatis + Flutter | [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/codeslice/id6752849706) |
 | 🚗 **AutoFinder** | AI-powered used car recommendation platform | Spring + MyBatis + React + Python | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/AutoFinder) |
 | 💼 **JobBridge** | Smart job matching service with NLP | Spring Boot + MyBatis + Flutter | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SooinDev/jobbridge-backend) |
 
