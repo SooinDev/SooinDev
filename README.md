@@ -33,6 +33,7 @@ const sooindev = {
     backend: ["Spring", "Spring Boot", "MyBatis"],
     database: ["MySQL", "MariaDB", "Query Optimization"],
     server: ["Tomcat", "Linux", "AWS"],
+    mobile: ["Flutter", "Dart"],
     tools: ["DBeaver", "Git", "IntelliJ IDEA"]
   },
   
@@ -61,6 +62,12 @@ const sooindev = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-DC143C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 ### 💾 Database & Cache
 
@@ -121,6 +128,29 @@ Virtual streamer fan community platform
 </td>
 <td width="50%">
 
+### 📱 CodeSlice
+
+[![App Store](https://img.shields.io/badge/📲_Download-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/codeslice/id6752849706)
+
+Smart QR code generator for iOS
+
+**Tech Stack:**
+- `Flutter`
+- `Dart`
+- `iOS 13.0+`
+
+**Features:**
+- 📶 Wi-Fi QR code sharing
+- 👤 Contact card generation
+- 🔗 URL & Text to QR
+- ✨ Minimal & intuitive design
+- ⭐ 5.0 Rating on App Store
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🚗 AutoFinder
 
 [![GitHub](https://img.shields.io/badge/📂_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SooinDev/AutoFinder)
@@ -140,8 +170,6 @@ AI-powered used car recommendation platform
 - 💬 Review system
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 💼 JobBridge
@@ -161,15 +189,6 @@ Smart job matching service with NLP
 - 📄 Resume analysis
 - 🔔 Job alerts
 - 📊 Statistics dashboard
-
-</td>
-<td width="50%">
-
-### 🎯 More Projects Coming Soon...
-
-Stay tuned for more exciting projects!
-
-[![GitHub](https://img.shields.io/badge/🔗_Follow_Me-SooinDev-58A6FF?style=for-the-badge&logo=github)](https://github.com/SooinDev)
 
 </td>
 </tr>
@@ -199,16 +218,16 @@ Stay tuned for more exciting projects!
 
 <div align="center">
 
-| 🍃 Spring Ecosystem | 🗄️ Database Expertise | 🌐 Web Development |
-|:---:|:---:|:---:|
-| Spring Framework | MyBatis Configuration | Apache Tomcat |
-| Spring Boot | Dynamic SQL | Server Configuration |
-| Spring MVC | Result Mapping | Deployment |
-| Spring Security | Transaction Management | Load Balancing |
-| RESTful API Design | Query Optimization | JSP/Servlet |
-| Layered Architecture | Index Design | JavaScript |
-| MVC Pattern | Performance Tuning | AJAX |
-| Dependency Injection | Stored Procedures | Responsive Design |
+| 🍃 Spring Ecosystem | 🗄️ Database Expertise | 🌐 Web Development | 📱 Mobile Development |
+|:---:|:---:|:---:|:---:|
+| Spring Framework | MyBatis Configuration | Apache Tomcat | Flutter |
+| Spring Boot | Dynamic SQL | Server Configuration | Dart |
+| Spring MVC | Result Mapping | Deployment | Cross-Platform |
+| Spring Security | Transaction Management | Load Balancing | App Store Publishing |
+| RESTful API Design | Query Optimization | JSP/Servlet | State Management |
+| Layered Architecture | Index Design | JavaScript | UI/UX Design |
+| MVC Pattern | Performance Tuning | AJAX | - |
+| Dependency Injection | Stored Procedures | Responsive Design | - |
 
 </div>
 
@@ -249,18 +268,24 @@ graph LR
   ORM/Mapper    : MyBatis
   Database      : MySQL 8.0, MariaDB 10.x
   Web Server    : Apache Tomcat 8.5.100
-  Language      : Java 1.8+
+  Language      : Java 1.8+, Dart
   
 🛠️ Tools:
-  IDE           : IntelliJ IDEA Ultimate
+  IDE           : IntelliJ IDEA Ultimate, VS Code, Android Studio
   Database Tool : DBeaver Community
   Version Control: Git, GitHub
   Terminal      : iTerm2 with Dracula Theme
   
 ☁️ Infrastructure:
   Cloud         : AWS (EC2, RDS, S3)
-  OS            : Linux (Ubuntu, CentOS)
+  OS            : Linux (Ubuntu, CentOS), macOS
   CI/CD         : GitHub Actions
+  
+📱 Mobile:
+  Framework     : Flutter
+  Language      : Dart
+  Platform      : iOS, Android (Cross-Platform)
+  Distribution  : App Store
 ```
 
 ---
