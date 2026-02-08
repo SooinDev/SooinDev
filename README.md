@@ -183,7 +183,7 @@ Tools:
   IDE          : IntelliJ IDEA Ultimate, VS Code, Android Studio
   DB Client    : DBeaver Community
   VCS          : Git, GitHub
-  Terminal     : iTerm2 + Dracula Theme
+  Terminal     : iTerm2
 
 Infrastructure:
   Cloud        : AWS (EC2, RDS, S3)
