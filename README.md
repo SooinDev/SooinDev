@@ -71,21 +71,21 @@
 <tr>
 <td>
 
-```javascript
-const identity = {
-    name       : "SooinDev",
-    role       : "Backend Engineer",
-    base       : "Incheon, KR",
-    education  : "CS — Woosong University",
-    
-    philosophy : "code with purpose, design with empathy",
-    
-    currently  : [
+```java
+public class SooinDev {
+
+    private final String name       = "SooinDev";
+    private final String role       = "Backend Engineer";
+    private final String base       = "Incheon, KR";
+    private final String education  = "CS — Woosong University";
+    private final String philosophy = "code with purpose, design with empathy";
+
+    private final List<String> currently = List.of(
         "Microservices Architecture",
         "Performance Optimization",
         "Cloud-Native Development"
-    ]
-};
+    );
+}
 ```
 
 </td>
