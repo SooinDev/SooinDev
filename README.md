@@ -346,7 +346,7 @@ Job alerts & statistics
 ║   RUNTIME                                                    ║
 ║   ├── Framework    Spring Framework · Spring Boot            ║
 ║   ├── Mapper       MyBatis                                   ║
-║   ├── Database     MySQL 8.0 · MariaDB 10.x                 ║
+║   ├── Database     MySQL 8.0 · MariaDB 10.x                  ║
 ║   ├── Server       Apache Tomcat 8.5.100                     ║
 ║   └── Language     Java 1.8+ · Dart                          ║
 ║                                                              ║
