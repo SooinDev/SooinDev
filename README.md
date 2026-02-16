@@ -75,7 +75,7 @@
 const identity = {
     name       : "SooinDev",
     role       : "Backend Engineer",
-    base       : "Daejeon, KR",
+    base       : "Incheon, KR",
     education  : "CS — Woosong University",
     
     philosophy : "code with purpose, design with empathy",
