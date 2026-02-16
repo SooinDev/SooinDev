@@ -42,9 +42,9 @@
 
 <a href="mailto:alwayswithsound@gmail.com"><img src="https://img.shields.io/badge/MAIL-111111?style=flat-square&logo=maildotru&logoColor=444"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://velog.io/@alwayswithsound/posts"><img src="https://img.shields.io/badge/BLOG-111111?style=flat-square&logo=hashnode&logoColor=444"/></a>
+<a href="https://velog.io/@alwayswithsound/posts"><img src="https://img.shields.io/badge/VELOG-111111?style=flat-square&logo=hashnode&logoColor=444"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://alwayswithsound.tistory.com/"><img src="https://img.shields.io/badge/BLOG2-111111?style=flat-square&logo=micro.blog&logoColor=444"/></a>
+<a href="https://alwayswithsound.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-111111?style=flat-square&logo=micro.blog&logoColor=444"/></a>
 
 <br/>
 <br/>
