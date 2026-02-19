@@ -350,6 +350,28 @@ Job alerts & statistics
 <div align="center">
 
 ```
+ ─── WAKATIME ───────────────────────────────────── †
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="52%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SooinDev&theme=highcontrast&hide_border=true&bg_color=0a0a0a&title_color=555555&text_color=666666&layout=compact" />
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br/>
+
+<div align="center">
+
+```
  ─── ENVIRONMENT ────────────────────────────────── †
 ```
 
