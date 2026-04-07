@@ -310,12 +310,12 @@ Job alerts & statistics
 
 <div align="center">
 
-<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=SooinDev&theme=black-ice&hide_border=true&background=0a0a0a&stroke=1a1a1a&ring=444444&fire=888888&currStreakLabel=666666&sideLabels=444444&currStreakNum=aaaaaa&sideNums=666666&dates=333333" />
+<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=SooinDev&theme=black-ice&hide_border=true&background=0a0a0a&stroke=1a1a1a&ring=444444&fire=888888&currStreakLabel=666666&sideLabels=444444&currStreakNum=aaaaaa&sideNums=666666&dates=333333&t=1" />
 
 <br/>
 <br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=SooinDev&theme=high-contrast&hide_border=true&bg_color=0a0a0a&color=555555&line=888888&point=aaaaaa&area=true&area_color=1a1a1a" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=SooinDev&theme=high-contrast&hide_border=true&bg_color=0a0a0a&color=555555&line=888888&point=aaaaaa&area=true&area_color=1a1a1a&t=1" />
 
 </div>
 
