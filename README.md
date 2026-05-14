@@ -360,9 +360,9 @@ Job alerts & statistics
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -370,7 +370,7 @@ Job alerts & statistics
 
 > 📦 216.5 kB Used in GitHub's Storage 
  > 
-> 🏆 297 Contributions in the Year 2026
+> 🏆 298 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -378,55 +378,6 @@ Job alerts & statistics
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                836 commits         ████████░░░░░░░░░░░░░░░░░   30.71 % 
-🌆 Daytime                526 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-🌃 Evening                800 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌙 Night                  560 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Tuesday                  338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Wednesday                567 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Thursday                 712 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Friday                   387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Saturday                 175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Sunday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Java                     4 hrs 10 mins       ████████████░░░░░░░░░░░░░   48.37 % 
-Other                    1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-HTML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Java Properties          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-
-🔥 Editors: 
-Unknown Editor           4 hrs 52 mins       ██████████████░░░░░░░░░░░   56.48 % 
-IntelliJ IDEA            3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-🐱‍💻 Projects: 
-livepush                 4 hrs 25 mins       █████████████░░░░░░░░░░░░   51.31 % 
-subscription-manager     1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-codelog                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-PS                       38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-jarvis                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-
-💻 Operating System: 
-Mac                      8 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -444,7 +395,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 02:08:16 UTC
+ Last Updated on 14/05/2026 02:10:24 UTC
 <!--END_SECTION:waka-->
 
 </div>
