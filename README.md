@@ -197,8 +197,10 @@ public class SooinDev {
 
 <br/>
 
-Fan community & board system
-User management · Custom UI/UX
+버츄얼 스트리머 이리온의 팬 커뮤니티 플랫폼입니다.<br/>
+게시판 · 댓글 · 좋아요 · 팬아트 갤러리 등 커뮤니티 전반을<br/>
+Spring MVC 기반으로 직접 설계하고 구현했습니다.<br/>
+AWS EC2 + MariaDB 환경에 배포하여 실 운영 중입니다.
 
 <br/>
 <br/>
@@ -224,8 +226,9 @@ User management · Custom UI/UX
 
 <br/>
 
-Wi-Fi QR sharing · Contact cards
-URL & Text encoding · Minimal design
+Wi-Fi 비밀번호 · 연락처 · URL · 텍스트를<br/>
+QR 코드로 즉시 변환하는 iOS 앱입니다.<br/>
+미니멀한 디자인과 직관적인 UX를 중점으로 개발했습니다.
 
 <br/>
 <br/>
@@ -253,8 +256,10 @@ URL & Text encoding · Minimal design
 
 <br/>
 
-AI recommendation engine
-Advanced search · Price analysis · Reviews
+사용자의 예산 · 용도 · 선호 조건을 분석해<br/>
+중고차를 AI로 추천하는 서비스입니다.<br/>
+Python 기반 추천 엔진과 Spring 백엔드를 연동하고<br/>
+React로 검색 · 가격 분석 · 리뷰 UI를 구현했습니다.
 
 <br/>
 <br/>
@@ -280,10 +285,48 @@ Advanced search · Price analysis · Reviews
 
 <br/>
 
-Smart matching · Resume analysis
-Job alerts & statistics
+이력서와 채용공고를 NLP로 분석해<br/>
+적합도 기반으로 매칭해주는 취업 플랫폼입니다.<br/>
+자연어 처리로 직무 키워드를 추출하고<br/>
+맞춤 채용 알림 · 통계 대시보드를 제공합니다.
 
 <br/>
+<br/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<br/>
+
+```
+◆ TINY-TOMCAT
+```
+
+[**`source code →`**](https://github.com/SooinDev/tiny-tomcat)
+
+<br/>
+
+> Tomcat implementation from scratch in pure Java
+
+<br/>
+
+`Java` · `Socket` · `HTTP` · `Thread Pool`
+
+<br/>
+
+톰캣의 핵심 동작 원리를 순수 Java로 직접 구현한 프로젝트입니다.<br/>
+TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
+외부 라이브러리 없이 밑바닥부터 구현하며<br/>
+웹 서버의 내부 동작 원리를 깊이 학습했습니다.
+
+<br/>
+<br/>
+
+</td>
+<td align="center" width="50%">
+
 <br/>
 
 </td>
